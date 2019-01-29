@@ -18,3 +18,7 @@ sudo apt-get install network-manager-l2tp network-manager-l2tp-gnome
 ```
 
 Then log out and log back in.
+
+
+# Global Protect support
+https://github.com/dlenski/openconnect
